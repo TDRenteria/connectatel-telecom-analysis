@@ -121,26 +121,6 @@ El proyecto utiliza tres fuentes principales de información:
 - Monitorear usuarios de consumo extremo para oportunidades premium.
 
 ---
-## Key Insights
-
-- Premium users showed higher average usage in both calls and text messages.
-- Most customers belong to the medium usage segment.
-- Several outliers were detected in call duration, indicating potential heavy users or atypical behavior.
-- Younger users tend to have more variable usage patterns compared to older customers.
-- Call and message distributions are right-skewed, with most users concentrated in lower consumption ranges.
-
-## Business Recommendations
-
-- Create segmented plans focused on high-usage customers.
-- Design retention strategies for medium-usage users, who represent the majority of the customer base.
-- Monitor extreme usage outliers to identify possible fraud, system errors, or premium customer opportunities.
-- Develop personalized offers according to age and usage behavior.
-
-## Business Conclusion
-
-The analysis revealed clear behavioral differences among customer segments based on age, usage intensity, and subscription plan. These findings can help ConnectaTel optimize commercial strategies, improve customer segmentation, and design more efficient telecom plans aligned with user behavior.
-
----
 # ▶️ Cómo Ejecutar el Proyecto
 
 ## 1. Clonar el repositorio
