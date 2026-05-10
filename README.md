@@ -125,9 +125,11 @@ El proyecto utiliza tres fuentes principales de información:
 
 ## 1. Clonar el repositorio
 
+Clone the repository:
+
 ```bash
-[git clone TU_LINK_DEL_REPOSITORIO](https://github.com/TDRenteria/connectatel-telecom-analysis.git)
-```
+git clone https://github.com/TDRenteria/connectatel-telecom-analysis.git
+cd connectatel-telecom-analysis
 
 ## 2. Instalar dependencias
 
