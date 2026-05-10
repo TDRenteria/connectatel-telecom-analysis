@@ -130,6 +130,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/TDRenteria/connectatel-telecom-analysis.git
 cd connectatel-telecom-analysis
+```
 
 ## 2. Instalar dependencias
 
